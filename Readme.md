@@ -14,5 +14,5 @@ I regularly talk about Single Level of Abstraction `SLA` with colleges. This exa
 
 ## How to use the code
 
-The `YoungHero` class will show code which has some `SLA` issues and contains some comments what to refactor.
-The `SeasonedHero` shows a refactored version.
+- The `YoungHero` class will show code which has some `SLA` issues and contains some comments what to refactor.
+- The `SeasonedHero` shows a refactored version.
